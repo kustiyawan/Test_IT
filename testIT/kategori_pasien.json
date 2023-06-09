@@ -1,0 +1,123 @@
+[
+    {
+        "clinic_cd":"PK001",
+        "name":"Umum"
+    },
+    {
+        "clinic_cd":"PK002",
+        "name":"BEDAH OK"
+    },
+    {
+        "clinic_cd":"PK003",
+        "name":"Bedah Umum"
+    },
+    {
+        "clinic_cd":"PK004",
+        "name":"Ortopedic"
+    },
+    {
+        "clinic_cd":"PK005",
+        "name":"Kesehatan Anak"
+    },
+    {
+        "clinic_cd":"PK006",
+        "name":"Obstetri & Ginekologi"
+    },
+    {
+        "clinic_cd":"PK007",
+        "name":"Keluarga Berencana\/ KIA"
+    },
+    {
+        "clinic_cd":"PK008",
+        "name":"Saraf"
+    },
+    {
+        "clinic_cd":"PK009",
+        "name":"Kesehatan Jiwa"
+    },
+    {
+        "clinic_cd":"PK010",
+        "name":"THT"
+    },
+    {
+        "clinic_cd":"PK011",
+        "name":"IGD"
+    },
+    {
+        "clinic_cd":"PK012",
+        "name":"Hemodialisa"
+    },
+    {
+        "clinic_cd":"PK013",
+        "name":"Gigi & Mulut"
+    },
+    {
+        "clinic_cd":"PK014",
+        "name":"MATA"
+    },
+    {
+        "clinic_cd":"PK015",
+        "name":"Paru - Paru"
+    },
+    {
+        "clinic_cd":"PK016",
+        "name":"Psikologi"
+    },
+    {
+        "clinic_cd":"PK017",
+        "name":"Fisioterapi\/Rehabilitasi Medis"
+    },
+    {
+        "clinic_cd":"PK018",
+        "name":"Laboratorium"
+    },
+    {
+        "clinic_cd":"PK019",
+        "name":"Radiologi"
+    },
+    {
+        "clinic_cd":"PK020",
+        "name":"Kulit & Kelamin "
+    },
+    {
+        "clinic_cd":"PK021",
+        "name":"Penyakit Dalam"
+    },
+    {
+        "clinic_cd":"PK024",
+        "name":"GIZI"
+    },
+    {
+        "clinic_cd":"PK025",
+        "name":"PEMULASARAN  JENAZAH"},
+    {
+        "clinic_cd":"PK026",
+        "name":"DIKLAT"
+    },
+    {
+        "clinic_cd":"PK027",
+        "name":"Klinik ODP"
+    },
+    {
+        "clinic_cd":"PK028",
+        "name":"Tindakan VK"
+    },
+    {
+        "clinic_cd":"PK029",
+        "name":"Jantung"
+    },
+    {
+        "clinic_cd":"PK030",
+        "name":"Gigi Konservasi"
+    },
+    {
+        "clinic_cd":"PK031",
+        "name":"Urologi"},
+    {
+        "clinic_cd":"PK22",
+        "name":"AMBULANCE"
+    },
+    {
+        "clinic_cd":"PK23","name":"MOW"
+    }
+]
